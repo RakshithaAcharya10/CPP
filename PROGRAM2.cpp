@@ -5,7 +5,7 @@ int main(){
     cout<<"Enter the first number : ";
     cin>>num1;
     cout<<"\nEnter the second number : ";
-    cin>>num2;4
+    cin>>num2;
     sum = num1 + num2;
     cout<<"\nAddition two numbers is :"<<sum;
     return 0;
