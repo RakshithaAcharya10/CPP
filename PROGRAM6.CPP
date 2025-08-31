@@ -2,14 +2,14 @@
 using namespace std;
 
 int main() {
-    int num1, num2;
+    int n1, n2;
     cout << "Enter two numbers: ";
-    cin >> num1 >> num2;
+    cin >> n1 >> n2;
 
-    if (num1 > num2) {
-        cout << num1 << " is the largest" << endl;
-    } else if (num2 > num1) {
-        cout << num2 << " is the largest" << endl;
+    if (n1 > n2) {
+        cout << n1 << " is the largest" << endl;
+    } else if (n2 > n1) {
+        cout << n2 << " is the largest" << endl;
     } else {
         cout << "Both numbers are equal" << endl;
     }
