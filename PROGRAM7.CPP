@@ -13,8 +13,7 @@ int main() {
         cout<<b<<" is the largest"<<endl;
     } 
     else {
-        cout << c << " is the largest" << endl;
+        cout<<c<<" is the largest"<<endl;
     }
-
     return 0;
 }
