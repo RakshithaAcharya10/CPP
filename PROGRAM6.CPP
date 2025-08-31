@@ -11,8 +11,7 @@ int main() {
     } else if (n2>n1) {
         cout<<n2<<" is the largest"<<endl;
     } else {
-        cout << "Both numbers are equal" << endl;
+        cout<<"Both numbers are equal"<<endl;
     }
-
     return 0;
 }
