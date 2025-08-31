@@ -9,4 +9,5 @@ int main(){
         cout<<"Entered number is Even"<<endl;
     else
         cout<<"Entered number is Odd"<<endl;
+    return 0;
 }
